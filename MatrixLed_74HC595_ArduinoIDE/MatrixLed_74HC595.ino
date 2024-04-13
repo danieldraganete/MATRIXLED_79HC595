@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
- //*** 74HC595 pin definitions ***
+ *** 74HC595 pin definitions ***
 const int latchPin1 = 2;  // För kolumner
 const int clockPin1 = 11;  
 const int dataPin1 = 10;
