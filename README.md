@@ -57,4 +57,4 @@ This Arduino project utilizes a pair of 74HC595 shift registers to create a scro
 
 **Let me know if you'd like any specific sections explained in more detail or want help customizing the project further!** 
 
-![](Assembled_test_project.jpeg)
+![](Assembled_test_project.jpg)
